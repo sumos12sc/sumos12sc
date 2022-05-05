@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Suman Kumar Ghimiray, Technical Recruiter
-- 👀 I’m interested in interacting and sourcing candidates for various opportunities with us.
+- 👀 I’m interested in interacting and sourcing technical consultants for various opportunities with us.
+- I AM ALWAYS HIRING ----ReactJS Developer, Fullstack Developer with reactjs and angular. You can reach me at suman@stellaritgroup.com
